@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # shared_preference_task
 # shared_task
 # shared_task
+# shared_preferences_task
