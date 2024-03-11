@@ -14,7 +14,7 @@ class LoginPage extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            Text('zekuska milaska nunaska'),
+            Text('login'),
             ElevatedButton(
               child: Text('login'),
               onPressed: () async{
